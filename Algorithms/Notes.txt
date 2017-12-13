@@ -1,0 +1,1 @@
+﻿Arrays have faster direct access than arrayLists
