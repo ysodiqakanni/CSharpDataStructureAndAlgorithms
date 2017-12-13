@@ -10,7 +10,7 @@ namespace Algorithms
     public class Timing
     {
         DateTime startTime;
-        TimeSpan duration;
+        TimeSpan duration;//
         public Timing()
         {
             startTime = DateTime.Now; ;

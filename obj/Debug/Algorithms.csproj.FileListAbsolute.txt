@@ -1,0 +1,9 @@
+c:\users\sodiq\documents\visual studio 2015\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+c:\users\sodiq\documents\visual studio 2015\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+c:\users\sodiq\documents\visual studio 2015\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+c:\users\sodiq\documents\visual studio 2015\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+c:\users\sodiq\documents\visual studio 2015\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+c:\users\sodiq\documents\visual studio 2015\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\Sodiq\Source\Repos\CSharpDataStructureAndAlgorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Sodiq\Source\Repos\CSharpDataStructureAndAlgorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Sodiq\Source\Repos\CSharpDataStructureAndAlgorithms\Algorithms\obj\Debug\Algorithms.pdb
